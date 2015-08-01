@@ -1,0 +1,2 @@
+# Manifest
+A vision of your application.
