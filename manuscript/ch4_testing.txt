@@ -1,2 +1,0 @@
-# Testing
-Use regression testing for reliability.

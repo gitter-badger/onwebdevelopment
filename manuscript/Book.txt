@@ -1,6 +1,4 @@
+preface.txt
 ch1_manifest.txt
 ch2_drawings.txt
-ch3_mvp.txt
-ch4_testing.txt
-ch5_deployment.txt
-ch6_scale.txt
+ch3_product.txt

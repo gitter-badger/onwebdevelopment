@@ -1,0 +1,6 @@
+# Preface
+
+This is a book on web development.
+It takes a minimalist approach to documentation.
+Advocates constant modification of plans.
+Start with the core of the problem first before the code.

@@ -1,2 +1,0 @@
-# Minimum Viable Product
-The least amount of development required.
