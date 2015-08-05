@@ -1,4 +1,4 @@
-# Manifest
+# Readme
 A vision statement, the shorter the better (2 words).
 Motivational quote that embodies that vision.
 A problem narrative that's personal and hyper critical.
