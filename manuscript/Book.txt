@@ -1,4 +1,4 @@
 preface.txt
-ch1_manifest.txt
+ch1_readme.txt
 ch2_drawings.txt
 ch3_product.txt
