@@ -1,4 +1,4 @@
-preface.txt
-ch1_readme.txt
-ch2_drawings.txt
-ch3_product.txt
+preface.md
+ch1_readme.md
+ch2_drawings.md
+ch3_product.md
