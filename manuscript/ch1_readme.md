@@ -9,5 +9,5 @@ A README with vision is comprised of a mission statement, motivational quote, a 
 X> ## Brainstorm on paper
 X>
 X> 1. Fill an entire page with problem-solution pairs, until all white space is vanquished.
-X> 1. Circle three that you would be willing to dedicate your entire life to. If none exist, repeat step on next page.
-X> 1. Jot each down on their own page and explore freely. Repeat step until you have composed your README.
+X> 2. Circle three that you would be willing to dedicate your entire life to. If none exist, repeat step on next page.
+X> 3. Jot each down on their own page and explore freely. Repeat step until you have composed your README.
