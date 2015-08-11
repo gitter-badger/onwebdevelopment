@@ -1,4 +1,3 @@
-author.md
 preface.md
 ch1_readme.md
 ch2_drawings.md
