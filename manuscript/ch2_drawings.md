@@ -12,12 +12,12 @@ D> Bring your most valued users into this phase for a boost of creativity.
 
 ## Example 1 
 
-![](images/habit_journal.pdf)
+![](images/habit_journal.png)
 
 ## Example 2 
 
-![](images/minimalist.pdf)
+![](images/minimalist.png)
 
 ## Example 3
 
-![](images/thrifty.pdf)
+![](images/thrifty.png)
