@@ -1,4 +1,4 @@
 preface.md
 ch1_readme.md
 ch2_drawings.md
-ch3_product.md
+ch3_project.md
