@@ -1,4 +1,5 @@
-# Welcome to On Web Development </br><small>we are the classic guide to building web applications.</small></br>
+# Welcome to On Web Development
+On Web Development is the classic guide to building web applications.
 
 ## Contribute to the Source
 
