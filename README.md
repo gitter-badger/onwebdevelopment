@@ -1,4 +1,6 @@
 # Welcome to On Web Development
+[![Stories in Ready](https://badge.waffle.io/wurde/onwebdevelopment.svg?label=ready&title=Ready)](http://waffle.io/wurde/onwebdevelopment)
+
 On Web Development is the classic guide to building web applications.
 
 ## Contribute to the Source
